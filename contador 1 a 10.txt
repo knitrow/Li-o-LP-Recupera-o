@@ -1,0 +1,14 @@
+#USANDO:WHILE
+
+numero = 1
+
+# Usando o loop while para imprimir os números de 1 a 10
+while numero <= 10:
+    print(numero)
+    numero += 1  # Incrementa o contador
+
+#USANDO : FOR
+ 
+# Usando o loop for para imprimir os números de 1 a 10
+for numero in range(1, 11):
+    print(numero)
